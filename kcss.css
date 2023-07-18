@@ -201,6 +201,20 @@
 .section3 image{
     position: absolute;
 }
+.section2 .all{
+    justify-content: center;
+    /* margin-left:700px ; */
+   margin-right: auto;
+   margin-left: auto;
+    padding-right:auto;
+    padding-left:auto;
+    align-items: center;
+    display: flex;
+    
+}
+.section2 image{
+    position: absolute;
+}
  .section3 .btn {
     background-color: #4E047B;
     padding: 20px 30px;
@@ -253,76 +267,25 @@
 }
 }
 
-@media (max-width:1110px) {
-    .firstp,.secondp,.thirdp,.forthp
-    {
-        padding-right: 5%;
-     }
+@media (max-width:900px) {
+    .section2 .all{
+        display: inline-block;
+    }
+    .first{
+        display: inline-block;
+        width:1000px;
+    }
+ 
+           
 }
 @media screen and (max-width:900px){
-    .firstpi image ,.secondpi image,.thirdpi image,.forthpi image {
-        display: inline-block;
-        width: 90%;
-        height: 150px; 
-        margin-top:2%;
-        margin-right:5%;  
-    }
+   
 
-    .section2{
-        padding-bottom: 10%;
-        display: inline-block;
-        margin-top: 10%;
-    }
-    .section2 .first{
-        display: inline-block;
-        width:90%;
-        height: 150px;
-        margin-right:5%;
-       
-        }
-        .section2 .second{
-            display: inline-block;
-            width: 90%;
-            height: 150px;
-            margin-top:2%;
-            margin-right:5%;
-           
-        }
-        .section2 .third{
-            display: inline-block;
-            width:90%;
-            height: 150px;
-            margin-top:2%;
-            margin-right:5%;
-          
-        }
-        .section2 .forth{
-            display: inline-block;
-            height: 150px; 
-            margin-top:2%;
-            margin-right:5%;
-           
-        } 
+  
        
 }
 @media screen and (max-width:687px) {
-.section2{
-    height:auto;
-}
-.all{
-    display:none;
-}
-.section2 .first{
-    display:inline-block;
-    width:70%;
-    
-    position:relative;
-}
-.section2 .second{
-    display:inline-block;
-    width:70%;
-  
-    position:relative;
-}
+
+
 
 }

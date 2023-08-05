@@ -1,0 +1,274 @@
+/* li::after{
+    content: "after";
+    color: brown;
+}        
+li::before{
+    content:"before";
+    color: blueviolet;
+}
+.lorm{
+    border:10px;
+    border-width:3px;
+    padding:10px;
+    margin-bottom: 10px;
+    border-color:black;
+    background-color: brown;
+    border-style: solid;
+} */
+/* * {
+    font-weight: bold;
+} */
+/* .free{ */
+    /* background-image:url(./freedom.jpg);
+    background-color: aquamarine;
+    background-repeat: no-repeat;
+    width: 1500px;
+    height: 200px;
+    background-size: cover;
+    background-position: 0 -700px; */
+    /* border: 10px solid burlywood; */
+    /* box-sizing: border-box;
+    background-attachment: fixed;
+    background-origin: border-box;
+    background-clip: border-box; */
+    /* background: linear-gradient(45deg,rgba(52, 210, 123, 0.9),rgba(100, 234, 100, 0.9)); */
+    /* filter: blur(5px) brightness(100%) contrast(120%); */
+    /* filter:drop-shadow(10px 10px 10px red); */
+/* } */
+
+/* .free:hover{
+    filter:none;
+    filter:drop-shadow(10px 10px 10px rgba(255, 250, 250, 0.3)); 
+} */
+/* @font-face {
+    font-family:"Vazir" ;
+    src: url('./font/Vazir-Bold.woff2')format('woff2'),
+    url('./font/Vazir-Bold.eot')format('embedded-opentype'),
+    url('./font/Vazir-Bold.woff')format('woff'),
+    url('./font/Vazir-Bold.ttf')format('turetype');
+}
+.free{
+    font-family: Vazir ;
+    font-stretch:normal;
+} */
+/* ///////خط1 -------------------------------------------------------------*/
+/* .section2{
+    width: auto;
+    height:300px ;
+    background-color:  #f4e4fc;
+    margin-top: 100px;
+}
+.section2 .hard{
+    position: absolute;
+    width:90%;
+    height:40%;
+    margin-left: auto;
+    margin-right: 5%;
+    justify-content: center;
+}
+.section2 .first{
+    width: 15%;
+    height:70%;
+    background-color: aliceblue;
+    border-radius: 10px;
+    margin-right:10%;
+    display: inline-block;
+    margin-left: 50px;   
+}
+.section2 .onef{
+    color:tomato; 
+    font-size: 15px;
+    justify-content: center; 
+    display: flex;
+}
+.section2 .twof{
+    color: black;
+    padding-left:10px;
+    padding-right: 10px;
+    line-height: 20px;
+}
+.section2 .imgf{
+    display: flex;
+    padding-right: 180px; 
+    padding-top: 10px;
+   padding-right: 80%;
+   position: sticky;
+}
+.section2 .second{
+    width: 15%;
+    height:70%;
+    background-color: aliceblue;
+    border-radius: 10px;
+    display: inline-block;
+    
+    
+}
+.section2 .ones{
+    color:tomato; 
+    font-size: 15px;
+    justify-content: center; 
+    display: flex;
+}
+.section2 .twos{
+    color: black;
+    padding-left:10px;
+    padding-right: 10px;
+    line-height: 20px;
+}
+.section2 .imgs{
+   
+    padding-right: 80%;
+    position: sticky;
+}
+.section2 .third{
+    width: 15%;
+    height:70%;
+    background-color: aliceblue;
+    border-radius: 10px;
+    display: inline-block;
+    margin-right: 50px;
+}
+.section2 .onet{
+    color:tomato; 
+    font-size: 15px;
+    justify-content: center; 
+    display: flex;
+}
+.section2.twot{
+    color: black;
+    padding-left:10px;
+    padding-right: 10px;
+    line-height: 20px;
+    justify-content: center
+}
+.section2 .imgt{
+     display: flex;
+    position: sticky;
+    padding-right: 170px; 
+    padding-right: 80%;
+}
+.section2 .forth{
+    width: 15%;
+    height:70%;
+    background-color: aliceblue;
+    border-radius: 10px;
+    display: inline-block;
+    margin-right: 60px;
+}
+.section2 .oneh{
+    color:tomato;
+    font-size: 15px;
+    justify-content: center;
+    display: flex;
+}
+.section2 .twoh{
+    color: black; 
+    padding-left:10px; 
+    padding-right: 10px;
+    line-height: 20px;
+}
+.section2 .imgh{
+    
+    padding-right:80%;
+}  خط178-----------------------------------------*/
+@media(max-width:900px){
+    /* .section2{
+    height: 400px;
+   
+    }
+    .section2 .first{
+        width:15%;
+        height:80%;
+    }
+    .section2 .second{
+        width:16%;
+        height:90%;
+    }
+    .section2 .third{
+        width:16%;
+        height:90%;
+    }
+    .section2 .forth{
+        width:16%;
+        height:90%;
+    } */
+  
+    /* .C-A{
+    margin-right:5%;
+    width: 20%;
+    }
+    .C-B{
+    margin-right:5%;
+    width: 20%;
+    }
+    .C-C{
+    margin-right:5%;
+    width: 20%;
+    }
+    .C-D{
+    margin-right:5%;
+    width: 20%;
+    } */
+}
+/* @media(max-width:800px) {
+    .section2{
+        height: 800px;
+        }
+    .section2 .first{
+    width: 400px;
+    height: 100px;
+   
+    }
+    .section2 .second{
+        width: 500px;
+        height: 100px;
+       
+    }
+    .section2 .third{
+        width: 500px;
+        height: 100px;
+       
+    }
+    .section2 .forth{
+    width: 500px;
+    height: 100px;
+  
+    }
+} */
+/*@media(max-width:900px) {
+    .section2{
+        height: 800px;
+       
+        }
+    .section2 .first{
+    display: inline-block;
+    width:90%;
+    height: 150px;
+    margin-right:5%;
+   
+    }
+    .section2 .second{
+        display: inline-block;
+        width: 90%;
+        height: 150px;
+        margin-top:2%;
+        margin-right:5%;
+       
+    }
+    .section2 .third{
+        display: inline-block;
+        width:90%;
+        height: 150px;
+        margin-top:2%;
+        margin-right:5%;
+      
+    }
+    .section2 .forth{
+        display: inline-block;
+        width: 90%;
+        height: 150px; 
+        margin-top:2%;
+        margin-right:5%;
+       
+    } 
+}*---------------------------خط255/

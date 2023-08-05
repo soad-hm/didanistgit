@@ -1,0 +1,102 @@
+  <!-- <style media=" (max-width:1320px)">
+    image{
+        width:15.5em;
+        padding: 30px 20px 50px 60 px;
+    }
+       
+    </style>
+    <style media="(max-width:860px)">
+    .button{
+    margin-right:34%;
+    margin-left: 66%;
+    width: 250px;
+    height: 50px;
+    justify-content: center;
+    }
+    .image{
+        margin-right: 35%;
+        width: 350px;
+        margin-left: 65%;
+    }
+    .message {
+        margin-right: 25%;
+        margin-left: 75%;
+        width: 450px;
+        height: 100px;
+        justify-content: center;
+    }
+    .image2{
+        padding-right: 10%;
+        padding-top:450px;
+    }
+
+    </style> -->
+  
+    <!-- <ul> -->
+        <!-- <li >
+            <a href="www.developermozella.com" class="develop">www.developermozella.com</a>
+        </li>
+        <li>
+            <a href="www.youtube.com" class="you">www.youtube.com</a>
+        </li>
+        <li>
+            <a href="www.google.com" class="google">www.google.com</a>
+        </li>
+    </ul>
+    <p class="lorm">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    <p class="lorm">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  -->
+/////////خط13
+<!-- <div class="section2">
+        <p style="color: #672384; font-weight: bold; justify-content: center; display: flex; font-size: 20px;padding-top:1%; font-family:'IRANYekan', sans-serif;">
+            چرا در دیدنیست فعالیت کنیم؟
+        </p>
+        <div  class="hard">
+        <div class="first">
+        <p class="onef" style="font-family: 'IRANYekan', sans-serif;font-size: 10px;">
+            شانس دیده شدن محصولات
+        </p>
+        <div style="width: auto; height: auto;">
+        <p class="twof"  style="font-family: 'IRANYekan', sans-serif; font-size: 12px;">با فعالیت در دیدنیست شانس دیده شدن محصولات و خدمات خود را بالا ببرید و فروش را افزایش دهید.</p>
+        <image class="imgf" src="first.png" ></image>
+        </div>
+        </div>
+
+       <div class="second">
+        <p class="ones"  style="font-family: 'IRANYekan', sans-serif;font-size: 10px;" >
+            نمایش مناسب مبتنی بر نیاز کاربر
+        </p>
+        <p class="twos"  style="font-family: 'IRANYekan', sans-serif; font-size: 12px;">در دیدنیست کالا و خدمات شما در جای مناسب مبتنی بر نیاز کاربر قرار می گیرد که باعث افزایش جذب می شود</p>
+        <image class="imgs" src="second.png" ></image>
+        </div>
+
+       <div class="third">
+        <p class="onet"  style="font-family: 'IRANYekan', sans-serif;font-size: 10px;">
+            شبکه اجتماعی خود را بسازید
+        </p>
+        <p  class="twot"  style="font-family: 'IRANYekan', sans-serif; font-size: 12px;">
+            در دیدنیست می توانید شبکه اجتماعی خود را تشکیل و گسترش دهید. کاربران می توانند شما دنبال کنند و از محصولات جدیدتان اطلاع پیدا کنند.
+        </p>
+        <image class="imgt" src="third.png"></image>
+        </div>
+
+       <div class="forth">
+       <p  class="oneh"  style="font-family: 'IRANYekan', sans-serif;font-size: 10px;">
+        رایگان! بدون نیاز به دانش فنی
+       </p>
+        <p  class="twoh"  style="font-family: 'IRANYekan', sans-serif; font-size: 12px;">
+            در دیدنیست می توانید رایگان محصولات و خدمات خود را ارائه دهید بدون نیاز به هیچ گونه دانش فنی.
+        </p>
+        <image class="imgh" src="forth.png" ></image>
+        </div>
+        </div>
+        </div> -->
+        /////////////خط 82تا
+          <!-- <div style="width:700px; height: 50px;justify-content: center;align-items: center;display: absolute; margin-left: auto; margin-right: auto; padding-top:40px;">
+        <p style="color: azure;  line-height: 30px; ">دیدنی‌ست پلتفرمی برای به اشتراک‌گذاری علاقه‌مندی هاست. شما در دیدنی‌ست می‌توانید علاقه‌مندی خود را با جستجوی تصویر مورد نظر و یا به کمک پیشنهاد‌‌هایی که دیدنی‌ست به شما می‌دهد پیدا کنید. در دیدنی‌ست فروشگاه‌ها و ارائه‌کنندگان خدمات به شما کمک می‌کنند که علاقه‌مندی خود را بخرید.</p>
+        </div> -->
+        /////////////خط 152
+         <!-- <div style="width:800px; height: 50px;">
+            <p style="color: black; display:flex; position: absolute;">دیدنی‌ست پلتفرمی برای به اشتراک‌گذاری علاقه‌مندی هاست. شما در دیدنی‌ست می‌توانید علاقه‌مندی خود را با جستجوی تصویر مورد نظر و یا به کمک پیشنهاد‌‌هایی که دیدنی‌ست به شما می‌دهد پیدا کنید. در دیدنی‌ست فروشگاه‌ها و ارائه‌کنندگان خدمات به شما کمک می‌کنند که علاقه‌مندی خود را بخرید.</p>
+        </div> -->
+        /////////خط162
